@@ -1,10 +1,9 @@
 <?php
 /**
- * Underscores functions and definitions.
+ * Functions and definitions. This file was copied from the Underscores theme and modified for WordPress Meetup Tokyo.
  *
- * @link https://developer.wordpress.org/themes/basics/theme-functions/
+ * See also: https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package Underscores
  */
 
 if ( ! function_exists( 'underscores_setup' ) ) :
